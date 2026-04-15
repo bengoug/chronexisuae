@@ -2,15 +2,15 @@
 $page_title       = 'Chronexis — Your Private Advisor for Every Dimension of Your World';
 $page_description = 'At Chronexis, confidentiality is not a feature — it is the foundation. A private strategic practice holding every dimension simultaneously: vitality, relational, leadership, residence and mentorship.';
 $page_canonical   = 'https://chronexis.com/';
-$page_og_image    = '/serena-kiker.jpg';
+$page_og_image    = 'https://images.pexels.com/photos/8068661/pexels-photo-8068661.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200';
 require 'header.php';
 ?>
 
 <!-- ── HERO — Immersive Split ───────────────────────────────── -->
 <section class="hero">
   <div class="hero-bg-panel">
-    <img src="https://images.pexels.com/photos/20771838/pexels-photo-20771838.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=900"
-         alt="Private advisory setting — calm and refined interior"
+    <img src="https://images.pexels.com/photos/8068661/pexels-photo-8068661.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=900"
+         alt="Luxury private advisory interior — gold and ivory tones"
          width="900" height="1200" loading="eager">
     <div class="hero-bg-overlay"></div>
   </div>
@@ -25,7 +25,7 @@ require 'header.php';
       </div>
     </div>
     <div class="hero-portrait">
-      <img src="/serena-kiker.jpg"
+      <img src="https://cdn.jsdelivr.net/gh/bengoug/chronexisuae@main/images/IMG_5285.JPG"
            alt="Serena Kiker — Private Strategic Advisor"
            width="640" height="900" loading="eager">
       <div class="hero-portrait-caption">
@@ -87,8 +87,8 @@ require 'header.php';
         <p>Each domain is addressed in isolation, as though the human being at the centre were not one interconnected whole. The consequences — repeated patterns, declining vitality, relationships under pressure, decisions made without the full picture — are rarely attributed to their true cause.</p>
         <p>Chronexis was built to address precisely that gap. A private strategic practice that holds every dimension simultaneously, bringing a single coherent intelligence to bear on the whole of what a person, a family, or an organisation is navigating.</p>
         <div class="intro-image-accent reveal-on-scroll" style="margin-top:3rem;">
-          <img src="https://images.pexels.com/photos/7598125/pexels-photo-7598125.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=400&w=600"
-               alt="Refined private advisory environment"
+          <img src="https://images.pexels.com/photos/8068661/pexels-photo-8068661.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=400&w=600"
+               alt="Refined private advisory environment — luxury interior"
                width="600" height="400" loading="lazy">
         </div>
       </div>
@@ -184,7 +184,7 @@ require 'header.php';
 <!-- ── SERENA SPLIT — REDESIGNED ────────────────────────────── -->
 <div class="serena-split reveal-on-scroll">
   <div class="serena-split-visual">
-    <img src="/serena-kiker.jpg"
+    <img src="https://cdn.jsdelivr.net/gh/bengoug/chronexisuae@main/images/IMG_5285.JPG"
          alt="Serena Kiker — Custodian of Chronexis"
          width="750" height="1000" loading="lazy">
     <div class="serena-split-badge">
@@ -245,8 +245,8 @@ require 'header.php';
 <!-- ── CONSIDERATION CTA ──────────────────────────────────────── -->
 <section class="cta-final reveal-on-scroll">
   <div class="cta-final-bg">
-    <img src="https://images.pexels.com/photos/20348131/pexels-photo-20348131.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=700&w=1400"
-         alt="Private counsel setting"
+    <img src="https://images.pexels.com/photos/8068661/pexels-photo-8068661.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=700&w=1400"
+         alt="Private counsel setting — luxury interior gold tones"
          width="1400" height="700" loading="lazy">
     <div class="cta-final-overlay"></div>
   </div>

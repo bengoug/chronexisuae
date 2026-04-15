@@ -2,7 +2,7 @@
 $page_title       = 'The Custodian — Serena Kiker | Chronexis';
 $page_description = 'Serena Kiker — Custodian of Chronexis. Academic formation at the Shanghai University of Traditional Chinese Medicine. Years of direct mentorship under senior practitioners in Asia. A capacity to read at the root.';
 $page_canonical   = 'https://chronexis.com/custodian';
-$page_og_image    = '/serena-kiker.jpg';
+$page_og_image    = 'https://cdn.jsdelivr.net/gh/bengoug/chronexisuae@main/images/IMG_5285.JPG';
 require 'header.php';
 ?>
 
@@ -24,7 +24,7 @@ require 'header.php';
 <!-- ── CUSTODIAN — FULL PORTRAIT SPLIT ──────────────────────── -->
 <section class="custodian-full-section">
   <div class="custodian-full-portrait">
-    <img src="/serena-kiker.jpg"
+    <img src="https://cdn.jsdelivr.net/gh/bengoug/chronexisuae@main/images/IMG_5285.JPG"
          alt="Serena Kiker — Custodian of Chronexis"
          width="780" height="1100" loading="lazy">
     <div class="custodian-full-label">
